@@ -1,7 +1,7 @@
 ### Sign up page
 
 
-####Techs:
+### Techs:
 - html
 - css
 - tailwind

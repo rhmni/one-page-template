@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: IRANSansWeb;
+}
+
+input, select {
+    outline: none;
+}
+
+@font-face {
+    font-family: IRANSansWeb;
+    src: url("../fonts/IRANSansWeb.woff2");
+}
